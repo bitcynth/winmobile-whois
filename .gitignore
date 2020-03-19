@@ -1,0 +1,4 @@
+/WHOIS/WHOIS/bin/
+/WHOIS/WHOIS/obj/
+*.suo
+*.csproj.user
